@@ -11,7 +11,7 @@ let quote=[
     '“A bear, however hard he tries, grows tubby without exercise.--A.A. Milne"',
 ];
 
-btn.addEventListener('click',function()
+btn.addEventListener('click',function() 
 {
     var randomQuote=quote[Math.floor(Math.random()*quote.length)]
     output.innerHTML=randomQuote;    

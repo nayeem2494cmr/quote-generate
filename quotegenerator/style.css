@@ -5,7 +5,7 @@ body{
 #container{
     background-color: darkgrey;
     border: 6px solid darkcyan ;
-    font-family: 'sans-serif',bold;
+    font-family: 'sans-serif',bold; 
     height: 280px;
     width: 1000px;
     margin: 200px auto;
