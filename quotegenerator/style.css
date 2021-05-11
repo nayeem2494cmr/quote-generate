@@ -1,0 +1,27 @@
+body{
+    background-color:burlywood;
+}
+
+#container{
+    background-color: darkgrey;
+    border: 6px solid darkcyan ;
+    font-family: 'sans-serif',bold;
+    height: 280px;
+    width: 1000px;
+    margin: 200px auto;
+    text-align: center;
+}
+
+#btn{
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 20px;
+    background-color: darkslategray;
+}
+
+#output{
+    margin: 15px auto;
+    font-size: 20px;
+    color: rgb(19, 2, 31);
+}
