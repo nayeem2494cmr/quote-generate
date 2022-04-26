@@ -3,7 +3,7 @@ let output=document.getElementById('output');
 let quote=[
     '“It is a far, far better thing that I do, than I have ever done, it is a far, far better rest I go to than I have ever known--Charles Dickens"',
     '“All we have to decide is what to do with the time that is given us --J.R.R. Tolkein"',
-    '“You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You’re on your own. And you know what you know. And YOU are the one who’ll decide where to go-- Dr Seuss"',
+    '“You have brains in your head. You have feet in your shoes can steer yourself any direction you choose. You’re on your own. And you know what you know. And YOU are the one who’ll decide where to go-- Dr Seuss"',
     '“It matters not what someone is born, but what they grow to be.--J.K. Rowling"',
     '“Whatever our souls are made of, his and mine are the same.-- Emily Bronte alex homes"',
     '“Whenever you feel like criticizing anyone … just remember that all the people in this world haven’t had the advantages that you’ve had.-- F. Scott Fitzgerald"',
